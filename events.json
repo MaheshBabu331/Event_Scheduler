@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Test Description",
+        "end_time": "2025-07-01T11:00:00",
+        "start_time": "2025-07-01T10:00:00",
+        "title": "Test Event",
+        "id": 1
+    },
+    {
+        "title": "Team Meeting",
+        "description": "Discuss roadmap",
+        "start_time": "2025-07-01T10:00:00",
+        "end_time": "2025-07-01T11:00:00",
+        "id": 4
+    },
+    {
+        "title": "Team Meeting",
+        "description": "Discuss roadmap",
+        "start_time": "2025-07-01T10:00:00",
+        "end_time": "2025-07-01T11:00:00",
+        "id": 5
+    }
+]
